@@ -54,4 +54,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 ## Daily CS Update
 | Date | Description |
 | ----------- | ----------- |
-| 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/new/main)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
+| 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/main/Readme.md)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
