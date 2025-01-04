@@ -52,8 +52,10 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
   - In Progress
 * Push code/computer science updates every day (365!!)
 * Obtain backend engineering job
-
+* Complete All 150 from [neetcode.io](https://neetcode.io/roadmap) but in leetcode
+  - In Progress 0/150  
 ## Daily CS Update
+### January
 | Date | Description |
 | ----------- | ----------- |
 | 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/blob/main/Readme.md)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
