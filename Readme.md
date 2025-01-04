@@ -47,7 +47,9 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 * Complete 1st semester of Master's program
 * Experiment with C++
 * Experiment with Assembly Language
+  - In Progress 
 * Learn NeoVim
+  - In Progress
 * Push code/computer science updates every day (365!!)
 * Obtain backend engineering job
 
@@ -56,3 +58,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | ----------- | ----------- |
 | 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/blob/main/Readme.md)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
 | 01/02/2025 | Setup assembly exploration [repo](https://github.com/ADKeiber/AssemblyExploration)<br>Explored different keyboard layouts and decided to get a 32 key Chocofi Keyboard DIY Kit<br>Follow along/code [Second assembly language tutorial video](https://www.youtube.com/watch?v=cFGJhn97e3s&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=2) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Third assembly language tutorial video](https://www.youtube.com/watch?v=_UP7WJ8iODY&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=3) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Created new Project Repo for [URL Shortening Service](https://github.com/ADKeiber/URL-Shortening-Service)|
+| 01/03/2025 | Read and created notes for the University of Virginia's [x86Assembly Guide](https://github.com/ADKeiber/AssemblyExploration/blob/main/files/x86AssemblyGuide.pdf)<br>Follow along/code [Fourth assembly language tutorial video](https://www.youtube.com/watch?v=U9HXtrDwxVM&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=4) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Fifth assembly language tutorial video](https://www.youtube.com/watch?v=KgfljMtrKkI&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=5) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Sixth assembly language tutorial video](https://www.youtube.com/watch?v=nNdAygFyvjY&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=6) and published [here](https://github.com/ADKeiber/AssemblyExploration) |
