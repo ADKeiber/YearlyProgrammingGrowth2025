@@ -47,7 +47,7 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 * Push code/computer science updates every day (365!!)
 * Obtain backend engineering job
 * Complete All 150 from [neetcode.io](https://neetcode.io/roadmap) but in leetcode
-  - In Progress 2/150  
+  - In Progress 5/150  
 ## Daily CS Update
 ### January
 | Date | Description |
@@ -56,4 +56,5 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/02/2025 | Setup assembly exploration [repo](https://github.com/ADKeiber/AssemblyExploration)<br>Explored different keyboard layouts and decided to get a 32 key Chocofi Keyboard DIY Kit<br>Follow along/code [Second assembly language tutorial video](https://www.youtube.com/watch?v=cFGJhn97e3s&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=2) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Third assembly language tutorial video](https://www.youtube.com/watch?v=_UP7WJ8iODY&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=3) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Created new Project Repo for [URL Shortening Service](https://github.com/ADKeiber/URL-Shortening-Service)|
 | 01/03/2025 | Read and created notes for the University of Virginia's [x86Assembly Guide](https://github.com/ADKeiber/AssemblyExploration/blob/main/files/x86AssemblyGuide.pdf)<br>Follow along/code [Fourth assembly language tutorial video](https://www.youtube.com/watch?v=U9HXtrDwxVM&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=4) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Fifth assembly language tutorial video](https://www.youtube.com/watch?v=KgfljMtrKkI&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=5) and published [here](https://github.com/ADKeiber/AssemblyExploration)<br>Follow along/code [Sixth assembly language tutorial video](https://www.youtube.com/watch?v=nNdAygFyvjY&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe&index=6) and published [here](https://github.com/ADKeiber/AssemblyExploration) |
 | 01/04/2025 | 5 LeetCode Questions<br>Setup and research for [Real time polling application](https://github.com/ADKeiber/Real-Time-Polling-Application)  |
-| 01/05/2025 | Setup MASM on PC<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration) |
+| 01/05/2025 | Setup MASM on PC<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)|
+| 01/06/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Home - System Calls](https://www.tutorialspoint.com/assembly_programming)<br>1 hr of Aws Cloud practitioner [study video](https://www.youtube.com/watch?v=NhDYbskXRgc&t=393s) (2:30 - 3:30) |
