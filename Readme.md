@@ -59,3 +59,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/05/2025 | Setup MASM on PC<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)|
 | 01/06/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Home - System Calls](https://www.tutorialspoint.com/assembly_programming)|
 | 01/07/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial addressing modes - Arithmetic Instructions](https://www.tutorialspoint.com/assembly_programming)|
+| 01/08/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Logical Instructions - loops](https://www.tutorialspoint.com/assembly_programming)|
