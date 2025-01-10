@@ -39,7 +39,7 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 * Learn NeoVim
   - In Progress
 * Push code/computer science updates every day (365!!)
-* Obtain backend engineering job
+* Linux certification
 * Complete All 150 from [neetcode.io](https://neetcode.io/roadmap) but in leetcode
   - In Progress 5/150  
 ## Daily CS Update
