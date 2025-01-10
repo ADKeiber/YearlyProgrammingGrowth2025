@@ -29,12 +29,6 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
   - Messaging Platform Backend
   - JS Obfuscator CLI utility
   - Web Scraper CLI
-* Obtain 4 AWS certifications
-  - Cloud Practitioner
-    - In Progress 
-  - Solutions Architect
-  - Developer
-  - SysOps Administrator
 * Learn about High-Performance and parallel computing
 * Complete 1st semester of Master's program
 * Experiment with C++
@@ -60,3 +54,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/06/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Home - System Calls](https://www.tutorialspoint.com/assembly_programming)|
 | 01/07/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial addressing modes - Arithmetic Instructions](https://www.tutorialspoint.com/assembly_programming)|
 | 01/08/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Logical Instructions - loops](https://www.tutorialspoint.com/assembly_programming)|
+| 01/09/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Numbers](https://www.tutorialspoint.com/assembly_programming)|
