@@ -8,17 +8,7 @@ There will be two notable sections of this file
 
 ## Goals
 NOTE: These goals were set on 1/1/25 but additional goals may be appended while exploring
-* Complete backend [roadmap](https://roadmap.sh/backend/project-ideas)
-  - Personal Blogging Platform API
-    - [Completed 11-10-24](https://github.com/ADKeiber/Blogging-API)
-  - To-Do List API
-    - [Completed 11-17-24](https://github.com/ADKeiber/Todo-API)
-  - Weather API Wrapper Service
-    - [Completed 11-24-24](https://github.com/ADKeiber/Weather-API-Wrapper-Service) 
-  - Expense Tracker API
-    - [Completed 12-1-24](https://github.com/ADKeiber/ExpenseTrackerAPI) 
-  - Markdown Note-taking App
-    - [Completed 12-31-24](https://github.com/ADKeiber/ExpenseTrackerAPI) 
+* Do projects from the backend [roadmap](https://roadmap.sh/backend/project-ideas) (maybe) depending on results of exploration
   - Real-time Polling App
     - [In Progress](https://github.com/ADKeiber/Real-Time-Polling-Application) 
   - Simple E-commerce API
@@ -31,11 +21,15 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
   - Web Scraper CLI
 * Learn about High-Performance and parallel computing
 * Complete 1st semester of Master's program
-* Experiment with C++
-  - Text-Based Adventure Game 
-* Experiment with Assembly Language/ Do Assembly Projects
-  - BigInt Library Project
-  - Compiler for something.. idk I'll tink about it (could be a C++ project as well)
+* Figure out if I wanna do embedded vs backend development
+  - Experiment with Assembly (1 month) January
+    -  BigInt Library Project
+  - Experiment with C (1 month) February
+    - Bus Reservation system
+  - Embedded project (1 month) March
+    - Pomodoro Clock/ project
+  - Experiment with Python/DJANGO ( 1 month)
+    - Music Library API
 * Learn NeoVim
   - In Progress
 * Push code/computer science updates every day (365!!)
