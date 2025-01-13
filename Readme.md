@@ -51,4 +51,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/09/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Numbers](https://www.tutorialspoint.com/assembly_programming)|
 | 01/10/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Strings](https://www.tutorialspoint.com/assembly_programming)|
 | 01/11/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)|
-| 01/12/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/blob/main/LinuxAssembly/strings.asm)|
+| 01/12/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/blob/main/LinuxAssembly/strings.asm)<br>Assembly [crash course](https://www.youtube.com/watch?v=vGL4qGVyK-U)<br>Start Assembly tutorial from OliveStem [1/48](https://youtu.be/yBO-EJoVDo0?si=As-Ho3h-7Zm8w8MH)|
