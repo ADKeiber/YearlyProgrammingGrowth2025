@@ -12,23 +12,17 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
   - Real-time Polling App
     - [In Progress](https://github.com/ADKeiber/Real-Time-Polling-Application) 
   - Simple E-commerce API
-  - Movie Reservation System
-  - Multiplayer Battleship Game Server
-  - Database Backup CLI utility
-  - Online Code Compiler API
   - Messaging Platform Backend
-  - JS Obfuscator CLI utility
-  - Web Scraper CLI
 * Learn about High-Performance and parallel computing
 * Complete 1st semester of Master's program
 * Figure out if I wanna do embedded vs backend development
-  - Experiment with Assembly (1 month) January
+  - Experiment with Assembly (2 months) Jan - Feb
     -  BigInt Library Project
-  - Experiment with C (1 month) February
+  - Experiment with C (2 months) March - April
     - Bus Reservation system
-  - Embedded project (1 month) March
+  - Embedded project (1 month) May
     - Pomodoro Clock/ project
-  - Experiment with Python/DJANGO ( 1 month)
+  - Experiment with Python/DJANGO ( 2 months) June - July
     - Music Library API
 * Learn NeoVim
   - In Progress
@@ -52,5 +46,5 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/10/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly Written [Tutorial Strings](https://www.tutorialspoint.com/assembly_programming)|
 | 01/11/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)|
 | 01/12/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/blob/main/LinuxAssembly/strings.asm)<br>Assembly [crash course](https://www.youtube.com/watch?v=vGL4qGVyK-U)<br>Start Assembly tutorial from OliveStem [1/48](https://youtu.be/yBO-EJoVDo0?si=As-Ho3h-7Zm8w8MH)|
-| 01/13/2025 | Assembly tutorial from OliveStem [2/48](https://www.youtube.com/watch?v=0x4obbzEAzM&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)<br>Assembly tutorial from OliveStem [3/48](https://www.youtube.com/watch?v=sFjX1hFDVkk&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=3)<br>Assembly tutorial from OliveStem [4/48](https://www.youtube.com/watch?v=UUTpCd-nPSg&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=4)<br>Assembly tutorial from OliveStem [5/48](https://www.youtube.com/watch?v=OetaxILNiMs&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=5)<br>Assembly tutorial from OliveStem [6/48](https://www.youtube.com/watch?v=IGo2ldg2Mp0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=7)<br> Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration) |
-| 01/14/2025 | NeetCode question [encode and decode string](https://neetcode.io/problems/string-encode-and-decode) <br>ThePrimeagen [VIM Intro Video](https://neetcode.io/problems/string-encode-and-decode) <br>|
+| 01/13/2025 | Assembly tutorial from OliveStem [2/48](https://www.youtube.com/watch?v=0x4obbzEAzM&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)<br>Assembly tutorial from OliveStem [3/48](https://www.youtube.com/watch?v=sFjX1hFDVkk&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=3)<br>Assembly tutorial from OliveStem [4/48](https://www.youtube.com/watch?v=UUTpCd-nPSg&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=4)<br>Assembly tutorial from OliveStem [5/48](https://www.youtube.com/watch?v=OetaxILNiMs&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=5)<br>Assembly tutorial from OliveStem [6/48](https://www.youtube.com/watch?v=IGo2ldg2Mp0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=7)<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration) |
+| 01/14/2025 | NeetCode question [encode and decode string](https://neetcode.io/problems/string-encode-and-decode) <br>ThePrimeagen [VIM Intro Video](https://neetcode.io/problems/string-encode-and-decode) <br>Assembly tutorial from OliveStem [7/48](https://www.youtube.com/watch?v=jJh9fpTpzGY&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=8)<br>Assembly tutorial from OliveStem [8/48](https://www.youtube.com/watch?v=LIM-PtQprFQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=8)<br>Assembly tutorial from OliveStem [9/48](https://www.youtube.com/watch?v=hrrAkNeMTiY&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=9)<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)  |
