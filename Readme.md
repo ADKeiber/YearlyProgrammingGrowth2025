@@ -16,13 +16,13 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 * Learn about High-Performance and parallel computing
 * Complete 1st semester of Master's program
 * Figure out if I wanna do embedded vs backend development
-  - Experiment with Assembly (2 months) Jan - Feb
+  - Experiment with Assembly (2 months est) Jan - Feb
     -  BigInt Library Project
-  - Experiment with C (2 months) March - April
+  - Experiment with C (2 months est) March - April
     - Bus Reservation system
-  - Embedded project (1 month) May
+  - Embedded project (1 month est) May
     - Pomodoro Clock/ project
-  - Experiment with Python/DJANGO ( 2 months) June - July
+  - Experiment with Python/DJANGO ( 2 months est) June - July
     - Music Library API
 * Learn NeoVim
   - In Progress
