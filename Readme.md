@@ -7,7 +7,7 @@ There will be two notable sections of this file
 * A daily recount of work associated with the above topics that I completed
 
 ## Goals
-NOTE: These goals were set on 1/1/25 but additional goals may be appended while exploring
+NOTE: These goals were set on 1/1/25 but will definetly change as I explore/figure out what I want to do
 * Do projects from the backend [roadmap](https://roadmap.sh/backend/project-ideas) (maybe) depending on results of exploration
   - Real-time Polling App
     - [In Progress](https://github.com/ADKeiber/Real-Time-Polling-Application) 
@@ -16,7 +16,7 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 * Learn about High-Performance and parallel computing
 * Complete 1st semester of Master's program
 * Figure out if I wanna do embedded vs backend development
-  - Experiment with Assembly (2 months est) Jan - Feb
+  - Experiment with Assembly (1 month) Jan
     -  BigInt Library Project
   - Experiment with C (2 months est) March - April
     - Bus Reservation system
@@ -50,4 +50,4 @@ NOTE: These goals were set on 1/1/25 but additional goals may be appended while 
 | 01/14/2025 | NeetCode question [encode and decode string](https://neetcode.io/problems/string-encode-and-decode) <br>ThePrimeagen [VIM Intro Video](https://neetcode.io/problems/string-encode-and-decode) <br>Assembly tutorial from OliveStem [7/48](https://www.youtube.com/watch?v=jJh9fpTpzGY&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=8)<br>Assembly tutorial from OliveStem [8/48](https://www.youtube.com/watch?v=LIM-PtQprFQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=8)<br>Assembly tutorial from OliveStem [9/48](https://www.youtube.com/watch?v=hrrAkNeMTiY&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=9)<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)  |
 | 01/15/2025 |Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [10/48](https://www.youtube.com/watch?v=__C3CHBVPY0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=10)<br>Assembly tutorial from OliveStem [11/48](https://www.youtube.com/watch?v=cE2JuWzaJXo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=11)<br>Assembly tutorial from OliveStem [12/48](https://www.youtube.com/watch?v=cA152hCfJHg&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=12)<br>Assembly tutorial from OliveStem [13/48](https://www.youtube.com/watch?v=aSILhr9uEuo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=13)<br>Assembly tutorial from OliveStem [14/48](https://www.youtube.com/watch?v=uBQZ348lZIQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=14)|
 | 01/16/2025 |Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [15/48](https://www.youtube.com/watch?v=Vw3KT7FB6Q4&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=15)<br>Research soldering, started looking at parts for custom keyboard. First soldering (it went meh)|
-| 01/17/2025 |Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [16/48](https://www.youtube.com/watch?v=597QNlaA2ws&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=16)<br>Assembly tutorial from OliveStem [17/48](https://www.youtube.com/watch?v=U7ysSE4Ew7E&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=17)|
+| 01/17/2025 |Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [16/48](https://www.youtube.com/watch?v=597QNlaA2ws&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=16)<br>Assembly tutorial from OliveStem [17/48](https://www.youtube.com/watch?v=U7ysSE4Ew7E&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=17)<br>Assembly tutorial from OliveStem [18/48](https://www.youtube.com/watch?v=o7cxmkTbr5c&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=18)<br>Assembly tutorial from OliveStem [19/48](https://www.youtube.com/watch?v=FAKJset0qtw&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=19)<br>Assembly tutorial from OliveStem [20/48](https://www.youtube.com/watch?v=zbsiq1n230E&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=20)<br>Assembly tutorial from OliveStem [21/48](https://www.youtube.com/watch?v=oeo-hKxsAMo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=21)|
