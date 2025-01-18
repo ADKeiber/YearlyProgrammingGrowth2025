@@ -7,29 +7,38 @@ There will be two notable sections of this file
 * A daily recount of work associated with the above topics that I completed
 
 ## Goals
-NOTE: These goals were set on 1/1/25 but will definetly change as I explore/figure out what I want to do
+NOTE: These goals were set on 1/1/25 but will change as I explore/figure out what I want to do
 * Do projects from the backend [roadmap](https://roadmap.sh/backend/project-ideas) (maybe) depending on results of exploration
   - Real-time Polling App
-    - [In Progress](https://github.com/ADKeiber/Real-Time-Polling-Application) 
+    - [In Progress](https://github.com/ADKeiber/Real-Time-Polling-Application)
+  - Real-time production management app
   - Simple E-commerce API
   - Messaging Platform Backend
-* Learn about High-Performance and parallel computing
+  - Personal Website
 * Complete 1st semester of Master's program
-* Figure out if I wanna do embedded vs backend development
-  - Experiment with Assembly (1 month) Jan
-    -  BigInt Library Project
-  - Experiment with C (2 months est) March - April
-    - Bus Reservation system
-  - Embedded project (1 month est) May
-    - Pomodoro Clock/ project
-  - Experiment with Python/DJANGO ( 2 months est) June - July
-    - Music Library API
+* Explore Languages (decide specialization)
+  - Assembly
+  - Python
+  - Javascript
+  - Golang
+  - Java (already pretty experienced)
+* Explore Frameworks
+  - Django
+  - NodeJS
+  - Spring Boot
+  - React
+  - VueJS
 * Learn NeoVim
   - In Progress
-* Push code/computer science updates every day (365!!)
-* Linux certification
+* Certifications
+  - Linux certification
+  - AWS Cloud Practitioner
+  - AWS Solutions Architect
+  - AWS Developer
+  - AWS SysOps admin
 * Complete All 150 from [neetcode.io](https://neetcode.io/roadmap) but in leetcode
-  - In Progress 6/150  
+  - In Progress 6/150
+* Push code/computer science updates every day (365!!)
 ## Daily CS Update
 ### January
 | Date | Description |
