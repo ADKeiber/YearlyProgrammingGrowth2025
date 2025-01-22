@@ -39,7 +39,7 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
   - In Progress 6/150
 * Push code/computer science updates every day (365!!)
 ## Daily CS Update
-### January
+### January (The month of Assembly)
 | Date | Description |
 | ----------- | ----------- |
 | 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/blob/main/Readme.md)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
@@ -62,4 +62,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 01/18/2025 | Solder and assemble the right half of chocofi keyboard. It is still missing battery so It's not entirely finished. I should have it soon<br>Learned about diodes work<br>Learned how to bootload nice!nano chip |
 | 01/19/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [22/48](https://www.youtube.com/watch?v=jDZuTpCE8l8&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=22)<br>Assembly tutorial from OliveStem [23/48](https://www.youtube.com/watch?v=EEEYPCxQyB4&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=23)<br>Assembly tutorial from OliveStem [24/48](https://www.youtube.com/watch?v=21u0Uerx0_Y&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=24)<br>Assembly tutorial from OliveStem [25/48](https://www.youtube.com/watch?v=oRjLQ8_aPZ8&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=26) |
 | 01/20/2025 | Neetcode [Products of Array Except Self Question](https://neetcode.io/problems/products-of-array-discluding-self)<br> Neetcode [Valid Sudoku Question](https://neetcode.io/problems/valid-sudoku)<br>Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Assembly tutorial from OliveStem [26/48](https://www.youtube.com/watch?v=QC6WdiiEud0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=26) | 
-| 01/21/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br> Assembly tutorial from OliveStem [27/48](https://www.youtube.com/watch?v=k1IZ0C0JiXU&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=27)<br>|
+| 01/21/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br> Assembly tutorial from OliveStem [27/48](https://www.youtube.com/watch?v=k1IZ0C0JiXU&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=27)<br> Assembly tutorial from OliveStem [28/48](https://www.youtube.com/watch?v=7BqWNT-5hN8&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=28)<br>Assembly tutorial from OliveStem [29/48](https://www.youtube.com/watch?v=zT4WyIgZGow&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=29)|
