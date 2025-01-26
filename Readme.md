@@ -17,19 +17,18 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
   - Personal Website
 * Complete 1st semester of Master's program
 * Explore Languages (decide specialization)
-  - Assembly <Completed>
-  - Python
+  - ~~Assembly~~
+  - Python (in progress)
   - Javascript
   - Golang
   - Java (already pretty experienced)
 * Explore Frameworks
-  - Django
+  - Django (in progress)
   - NodeJS
   - Spring Boot
   - React
   - VueJS
-* Learn NeoVim
-  - In Progress
+* ~~Learn NeoVim~~
 * Certifications
   - AWS Cloud Practitioner
   - AWS Solutions Architect
@@ -67,3 +66,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 01/23/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS)<br>Assembly tutorial from OliveStem [32/48](https://www.youtube.com/watch?v=rDgPQX4IMTo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=32)<br>Assembly tutorial from OliveStem [33/48](https://www.youtube.com/watch?v=jRcMJ4JqgAQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=33)<br> Left 1/2 of Chocofi keyboard [soldered and working](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/blob/main/IMG_1107.jpg)|
 | 01/24/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS)<br> Assembly tutorial from OliveStem [32/48](https://www.youtube.com/watch?v=11ijCDrCR7k&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=34) |
 | 01/25/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS)<br> Complete Assembly exploration!!<br>Start exploring Django via [tutorial part 1](https://docs.djangoproject.com/en/5.1/intro/tutorial01/) <br>Python Tutorial [here](https://github.com/ADKeiber/djangotutorial)|
+| 01/26/2025 | Start Django [tutorial 2](https://docs.djangoproject.com/en/5.1/intro/tutorial01/)<br>Python Tutorial [here](https://github.com/ADKeiber/djangotutorial) |
