@@ -28,7 +28,7 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
   - Spring Boot
   - React
   - VueJS
-* ~~Learn NeoVim~~
+* Learn NeoVim (In Progress)
 * Certifications
   - AWS Cloud Practitioner
   - AWS Solutions Architect
