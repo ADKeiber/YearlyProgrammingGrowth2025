@@ -38,7 +38,10 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
   - In Progress 6/150
 * Push code/computer science updates every day (365!!)
 ## Daily CS Update
-### January (The month of Assembly)
+- [January](#january)
+- [February](#february)
+
+# January
 | Date | Description |
 | ----------- | ----------- |
 | 01/01/2025 | Installed NeoVim and used this [repo](https://github.com/nvim-lua/kickstart.nvim) creates a basic NeoVim configuration<br>Followed and completed tutorial inside of that configuration.<br>Setup [goals page](https://github.com/ADKeiber/YearlyProgrammingGrowth2025/blob/main/Readme.md)<br>Setup Ubuntu Virtual machine<br>Follow along/code [first assembly language tutorial video](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe) |
@@ -71,3 +74,9 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 01/28/2025 | Start Django [tutorial 5](https://docs.djangoproject.com/en/5.1/intro/tutorial05/)<br>Python Tutorial [here](https://github.com/ADKeiber/djangotutorial) |
 | 01/29/2025 | Start Django [tutorial 6](https://docs.djangoproject.com/en/5.1/intro/tutorial06/)<br>Start Django [tutorial 7](https://docs.djangoproject.com/en/5.1/intro/tutorial07/)<br>Python Tutorial [here](https://github.com/ADKeiber/djangotutorial) |
 | 01/30/2025 | Assembly Exploration [here](https://github.com/ADKeiber/AssemblyExploration)<br>Redo assembly tutorial [Building a simple bootloader](https://www.youtube.com/watch?v=7BqWNT-5hN8&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=28)<br>Redo assembly tutorial [Printing A Message in BIOS](https://www.youtube.com/watch?v=zT4WyIgZGow&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=29)<br>Redo assembly tutorial [Disk Storage Structure](https://www.youtube.com/watch?v=wI6MYewlZpA&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=30)<br>Getting started Django [tutorial 8](https://docs.djangoproject.com/en/5.1/intro/tutorial08/)<br>Getting started Django [How to write reusable apps](https://docs.djangoproject.com/en/5.1/intro/reusable-apps/)<br>Python Tutorial [here](https://github.com/ADKeiber/djangotutorial) |
+| 01/31/2025 | Assembly Exploration [OS2](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)<br>Redo Assembly tutorial [Creating a FAT12 Disk](https://www.youtube.com/watch?v=zHJ2vlBnNr0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=32) |
+
+## February
+| Date | Description |
+| ----------- | ----------- |
+| 02/01/2025 | Ahh |
