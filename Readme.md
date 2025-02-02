@@ -79,4 +79,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 ## February
 | Date | Description |
 | ----------- | ----------- |
-| 02/01/2025 | Ahh |
+| 02/01/2025 | Assembly Exploration [OS2](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)<br>Redo Assembly tutorial [Reading From the Disk in BIOS](https://www.youtube.com/watch?v=rDgPQX4IMTo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=32)<br>Redo Assembly tutorial [Loading The Kernel File from Disk](https://www.youtube.com/watch?v=jRcMJ4JqgAQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=33) |
