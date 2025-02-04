@@ -47,7 +47,7 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
     - KAFKA
   - Projects/ Goals
     - Buildline Project
-    - PathRes Site
+    - Personal Site
     - AWS Cloud Practitioner
 ## Daily CS Update
 - [January](#january)
