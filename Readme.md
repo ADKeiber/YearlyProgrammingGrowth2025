@@ -18,12 +18,12 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 * Complete 1st semester of Master's program
 * Explore Languages (decide specialization)
   - ~~Assembly~~
-  - Python (in progress)
+  - ~~Python~~
   - Javascript
   - Golang
   - Java (already pretty experienced)
 * Explore Frameworks
-  - Django (in progress)
+  - ~~Django~~ 
   - NodeJS
   - Spring Boot
   - React
@@ -37,6 +37,18 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 * Complete All 150 from [neetcode.io](https://neetcode.io/roadmap) but in leetcode
   - In Progress 6/150
 * Push code/computer science updates every day (365!!)
+* 3 Month Push to get a full stack/backend job
+  - Strengthen knowledge in
+    - Spring/Spring Boot
+    - HTML, CSS (CSS mainly)
+    - Angular
+    - MySql
+    - MongoDB
+    - KAFKA
+  - Projects/ Goals
+    - Buildline Project
+    - PathRes Site
+    - AWS Cloud Practitioner
 ## Daily CS Update
 - [January](#january)
 - [February](#february)
@@ -82,3 +94,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/01/2025 | Assembly Exploration [OS2](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)<br>Redo Assembly tutorial [Reading From the Disk in BIOS](https://www.youtube.com/watch?v=rDgPQX4IMTo&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=32)<br>Redo Assembly tutorial [Loading The Kernel File from Disk](https://www.youtube.com/watch?v=jRcMJ4JqgAQ&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=33) |
 | 02/02/2025 | Assembly Exploration [OS2](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)<br>Redo Assembly tutorial [Implementing puts with C and x86](https://www.youtube.com/watch?v=11ijCDrCR7k&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=34)|
 | 02/03/2025 | Assembly Exploration [OS2](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)<br>Assembly tutorial [Implementing a basic printf function](https://www.youtube.com/watch?v=PJ34r14h8wc&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&index=35)|
+| 02/04/2025 ||
