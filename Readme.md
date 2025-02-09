@@ -99,3 +99,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/05/2025 | Assembly OS2 [troubleshooting](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)|
 | 02/06/2025 | Assembly OS2 [troubleshooting](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)|
 | 02/07/2025 | Assembly OS2 [troubleshooting](https://github.com/ADKeiber/AssemblyExploration/tree/main/OS2)>br? Update profile [README](https://github.com/ADKeiber)|
+| 02/08/2025 | 1/2 of the spring boot websocket [tutorial](https://spring.io/guides/gs/messaging-stomp-websocket)<br> Real Time Polling application [coding](https://github.com/ADKeiber/Real-Time-Polling-Application) |
