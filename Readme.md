@@ -104,4 +104,6 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/10/2025 | Welcome to a tour of Go - [Methods and interfaces](https://go.dev/tour/methods/1)<br>Welcome to a tour of Go - [Generics](https://go.dev/tour/generics/1) |
 | 02/11/2025 | Welcome to a tour of Go - [Concurrency](https://go.dev/tour/concurrency/1)|
 | 02/12/2025 | Adding Cobra to CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
-| 02/13/2025 | Adding Cobra to CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
+| 02/13/2025 | Polling CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
+| 02/14/2025 | Polling CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
+| 02/15/2025 | Polling CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
