@@ -105,3 +105,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/11/2025 | Welcome to a tour of Go - [Concurrency](https://go.dev/tour/concurrency/1)|
 | 02/12/2025 | Adding Cobra to CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
 | 02/13/2025 - 2/22/2025 | Polling CLI [repo](https://github.com/ADKeiber/Real-Time-Polling-Application)|
+| 02/23/2025| Skim [How The internet works](https://cs.fyi/guide/how-does-internet-work) <br> Watched [The Internet: Wires, Cables, & Wifi](https://www.youtube.com/watch?v=ZhEf7e4kopM)<br> Watched [The Internet: Packets, Routing & Reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)<br> Watched [The Internet: Encryption and Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs)<br>Roadmap.sh [What is the Internet](https://roadmap.sh/guides/what-is-internet) |
