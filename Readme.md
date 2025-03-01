@@ -111,3 +111,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/26/2025 | Chapter 4 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br>Chapter 5 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
 | 02/27/2025 | Chapter 6 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Chapter 7 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)| 
 | 02/28/2025 | Chapter 8 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
+| 03/28/2025 | Chapter 9 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
