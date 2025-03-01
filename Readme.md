@@ -110,4 +110,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/25/2025 | Chapter 2 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Boot.dev [CH2 HTTP](https://www.boot.dev/lessons/09ed0562-5760-4a78-919a-0233fa9b3227)<br>Chapter 3 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Boot.dev [CH3 HTTP](https://www.boot.dev/lessons/09ed0562-5760-4a78-919a-0233fa9b3227) |
 | 02/26/2025 | Chapter 4 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br>Chapter 5 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
 | 02/27/2025 | Chapter 6 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Chapter 7 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)| 
-| 02/27/2025 | Chapter 6 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
+| 02/28/2025 | Chapter 8 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
