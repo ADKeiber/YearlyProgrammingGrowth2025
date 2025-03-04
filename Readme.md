@@ -52,6 +52,7 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 ## Daily CS Update
 - [January](#january)
 - [February](#february)
+- [March](#march)
 
 # January
 | Date | Description |
@@ -111,5 +112,9 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 02/26/2025 | Chapter 4 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br>Chapter 5 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
 | 02/27/2025 | Chapter 6 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Chapter 7 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)| 
 | 02/28/2025 | Chapter 8 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)|
+
+## March
+| Date | Description |
+| ----------- | ----------- |
 | 03/01/2025 | Chapter 9 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> Chapter 10 Of Full HTTP Networking Course [video](https://www.youtube.com/watch?v=2JYT5f2isg4)<br> JS Webcrawling [repo](https://github.com/ADKeiber/JSWebCrawler)<br> Read cloudflare's [What is HTTP article](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br> Read Mozilla's [HTTP Overview article](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)|
 | 03/02/2025 | HTTP1 to HTTP2 to HTTP3 youtube [video](https://www.youtube.com/watch?v=a-sBfyiXysI)<br> SSL, TLS, HTTPS explained youtube [video](https://www.youtube.com/watch?v=j9QmMEWmcfo)<br>Skimmed HTTP/3 From A to Z [article](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)<br> Completed 'What is HTTP' node in roadmap.sh [backend map](https://roadmap.sh/backend)|
