@@ -114,3 +114,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 03/08/2025 | What is a web browser [article](https://www.ramotion.com/blog/what-is-web-browser/)|
 | 03/09/2025 | Populating the page: how browsers work [article](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work)<br> Completed 'Browsers and how they work?' node in roadmap.sh [backend map](https://roadmap.sh/backend)|
 | 03/10/2025 | React Native setup<br>React native [expoloration](https://github.com/ADKeiber/ReactNativeExploration) |
+| 03/11/2025 | First 15 min of MySQL Complete Course Youtube [video](https://www.youtube.com/watch?v=5OdVJbNCSso)| 
