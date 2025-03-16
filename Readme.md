@@ -118,3 +118,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 03/12/2025 | VusJS [introduction](https://vuejs.org/guide/introduction.html)| 
 | 03/13/2025 | Steps 1-5 vueJS [tutorial](https://vuejs.org/tutorial/#step-1)|
 | 03/14/2025 | Decode message file [JSWebCrawler](https://github.com/ADKeiber/JSWebCrawler)|
+| 03/15/2025 | JS decode [project](https://github.com/ADKeiber/JSWebCrawler/blob/main/decode.js)
