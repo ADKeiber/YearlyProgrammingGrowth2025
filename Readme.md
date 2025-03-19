@@ -122,3 +122,4 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 03/16/2025 | JS decode [project](https://github.com/ADKeiber/JSWebCrawler/blob/main/decode.js)|
 | 03/17/2025 | Steps 6 - 15 vueJS [tutorial](https://vuejs.org/tutorial/#step-1)|
 | 03/18/2025 | VueJS basic [examples](https://vuejs.org/examples)<br>VueJS practical [examples](https://vuejs.org/examples)|
+| 03/19/2025 | VueJS 7 GUIs [examples](https://vuejs.org/examples)|
