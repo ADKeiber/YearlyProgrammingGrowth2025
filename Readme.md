@@ -124,3 +124,14 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 03/18/2025 | VueJS basic [examples](https://vuejs.org/examples)<br>VueJS practical [examples](https://vuejs.org/examples)|
 | 03/19/2025 | VueJS 7 GUIs [examples](https://vuejs.org/examples)|
 | 03/20/2025 | Taileind CSS [docs](https://tailwindcss.com/docs/compatibility)|
+| 03/21/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/22/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/23/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/24/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/25/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/26/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/27/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/28/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/29/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/30/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+
