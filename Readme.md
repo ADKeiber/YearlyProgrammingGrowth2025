@@ -134,4 +134,5 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 03/28/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
 | 03/29/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
 | 03/30/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)|
+| 03/30/2025 | Expense Tracker front-end [repo](https://github.com/ADKeiber/VueJSExploration/tree/main/ExpenseTracker)<br>AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects)|
 
