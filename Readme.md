@@ -143,3 +143,8 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | 04/03/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
 | 04/04/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
 | 04/05/2025 | PluralSign Behavior driven development: The Big Picture Course overview and Introduction to behavior-driven development [parts]([https://github.com/ADKeiber/PhpProjects](https://app.pluralsight.com/library/courses/behavior-driven-development-big-picture/table-of-contents)) |
+| 04/06/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/07/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/08/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/09/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/10/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
