@@ -139,3 +139,7 @@ NOTE: These goals were set on 1/1/25 but will change as I explore/figure out wha
 | Date | Description |
 | ----------- | ----------- |
 | 04/01/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/02/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/03/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/04/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
+| 04/05/2025 | AuthApp PHP rest API [repo](https://github.com/ADKeiber/PhpProjects) |
